@@ -48,4 +48,4 @@ const IndexPage: React.FC<PageProps> = () => {
 
 export default IndexPage
 
-export const Head: HeadFC = () => <title>Landing Page Template</title>
+export const Head: HeadFC = () => <title>Open KZ</title>
