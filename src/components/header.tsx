@@ -141,13 +141,9 @@ function Header() {
   return (
     
     <header className="NavBar flex justify-between fixed w-full">
-      <Link to='/' className='Link1 ml-[5vw] pt-3 pb-4'>Project Title</Link>
+      <Link to='/' className='Link1 ml-[5vw] pt-3 pb-4'>Kazen Open</Link>
 
       <div className="flex flex-row">
-
-
-
-      
 
 
 
